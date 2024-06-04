@@ -2,129 +2,129 @@
     <img src="./Images/copilot-adventures.jpg" style="width: 830px;" />
 </a>
 
-Welcome to Copilot Adventures! This series of coding adventures is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
+Benvenuto in Copilot Adventures! Questa serie di avventure di programmazione riguarda l'apprendimento di nuovi concetti e linguaggi utilizzando [GitHub Copilot](https://github.com/features/copilot) per aiutarti a scrivere codice. Cominciamo!
 
-## Choose Your Own Copilot Adventure
+## Scegli la tua avventura Copilot
 
 <a href="#">
     <img src="./Images/choose-own-adventure.jpg" style="width: 830px" />
 </a>
 
-### 1. Enter the Adventure Arena
+### 1. Entra nell'Arena dell'Avventura
 
-To get started, enter the "adventure arena" by clicking the button below. This will create a GitHub Codespace that you can work in. Once it loads select the **Create codespace** button.
+Per iniziare, entra nell'"arena dell'avventura" cliccando il pulsante qui sotto. Questo creerà un GitHub Codespace in cui potrai lavorare. Una volta caricato, seleziona il pulsante **Crea codespace**.
 
-[![Enter Adventure Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Adventure+Arena&message=Open&color=brightgreen&logo=github)](https://codespaces.new/microsoft/CopilotAdventures)
+[![Entra nell'Arena dell'Avventura](https://img.shields.io/static/v1?style=for-the-badge&label=Entra+Adventure+Arena&message=Apri&color=brightgreen&logo=github)](https://codespaces.new/microsoft/CopilotAdventures)
 
-**NOTE:** You can use 60 hours of GitHub Codespaces [for free](https://github.com/features/codespaces#pricing) each month.
+**NOTA:** Puoi utilizzare 60 ore di GitHub Codespaces [gratuitamente](https://github.com/features/codespaces#pricing) ogni mese.
 
-If you'd prefer, you can clone the repo and run locally:
+Se preferisci, puoi clonare il repository ed eseguirlo localmente:
 
 ```bash
 git clone https://github.com/microsoft/copilotadventures
 ```
 
-### 2. Choose an Adventure
+### 2. Scegli un'avventura
 
-**Pre-Reqs:** Basic programming language knowledge is helpful.
+**Prerequisiti:** È utile avere una conoscenza di base dei linguaggi di programmazione.
 
-#### New to GitHub Copilot?
+#### Nuovo su GitHub Copilot?
 
-If you're new to GitHub Copilot, need to install the extensions, and want to learn how to get started using it, start with the [Warmup Adventure](./Adventures/StartHere.md).
+Se sei nuovo su GitHub Copilot, devi installare le estensioni e vuoi imparare come iniziare a usarlo, inizia con l'[Avventura di Riscaldamento](./Adventures/StartHere.it-IT.md).
 
-Once you've completed the warmup adventure and have the extensions installed, choose another GitHub Copilot adventure from the list below:
+Una volta completata l'avventura di riscaldamento e installate le estensioni, scegli un'altra avventura di GitHub Copilot dalla lista qui sotto:
 
-#### Beginner Adventures
+#### Avventure per principianti
 
-- [The Clockwork Town of Tempora](./Adventures/1-Beginner/The-Clockwork-Town-of-Tempora.md)
-- [The Magical Forest of Algora](./Adventures/1-Beginner/The-Magical-Forest-of-Algora.md)
+- [La città meccanica di Tempora](./Adventures/1-Beginner/it-IT/The-Clockwork-Town-of-Tempora.md)
+- [La foresta magica di Algora](./Adventures/1-Beginner/it-IT/The-Magical-Forest-of-Algora.md)
 
-#### Intermediate Adventures
+#### Avventure intermedie
 
-- [The Celestia Alignment of Lumoria](./Adventures/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
-- [The Legendary Duel of Stonevale](./Adventures/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
-- [The Scrolls of Eldoria](./Adventures/2-Intermediate/The-Scrolls-of-Eldoria.md)
+- [L'allineamento celestiale di Lumoria](./Adventures/2-Intermediate/it-IT/The-Celestial-Alignment-of-Lumoria.md)
+- [Il duello leggendario di Stonevale](./Adventures/2-Intermediate/it-IT/The-Legendary-Duel-of-Stonevale.md)
+- [I rotoli di Eldoria](./Adventures/2-Intermediate/it-IT/The-Scrolls-of-Eldoria.md)
 
-#### Advanced Adventures
+#### Avventure avanzate
 
-- [The Gridlock Arena of Mythos](./Adventures/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
+- [L'arena di ingorgo di Mythos](./Adventures/3-Advanced/it-IT/The-Gridlock-Arena-of-Mythos.md)
 
-### 3. Start Coding
+### 3. Inizia a programmare
 
-Read Your Copilot Adventure description, the high-Level tasks to perform, and the GitHub Copilot hints to help you write your code.
+Leggi la descrizione della tua avventura Copilot, le attività ad alto livello da eseguire e i suggerimenti di GitHub Copilot per aiutarti a scrivere il tuo codice.
 
-- Use [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) and/or [GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat) to help you write the code for the adventure. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
-- Leave any comments in your code to explain your thought process and show prompts that GitHub Copilot used to help you out.
+- Usa [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) e/o [GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat) per aiutarti a scrivere il codice per l'avventura. Puoi usare qualsiasi linguaggio tu preferisca. Prova a imparare un nuovo linguaggio se sei pronto per la sfida (più su)!
+- Lascia eventuali commenti nel tuo codice per spiegare il tuo processo di pensiero e mostrare i suggerimenti che GitHub Copilot ha usato per aiutarti.
 
-### 4. Submit Your Adventure Solution (Optional)
+### 4. Invia la tua soluzione d'avventura (facoltativo)
 
-If you'd like to share your solution with others, perform the following steps:
+Se desideri condividere la tua soluzione con gli altri, esegui i seguenti passaggi:
 
-- Publish your adventure solution to a GitHub repo. 
-- Visit https://github.com/microsoft/CopilotAdventures/issues and select `New Issue`.
-- Use the following naming convention for the issue title. 
+- Pubblica la tua soluzione d'avventura su un repository GitHub.
+- Visita https://github.com/microsoft/CopilotAdventures/issues e seleziona `Nuova Issue`.
+- Usa la seguente convenzione di denominazione per il titolo dell'issue.
 
     ```
-    Solution for [Name of Your Adventure]
+    Soluzione per [Nome della tua avventura]
     ```
 
-    Replace `[Name of Your Adventure]` with the adventure name you chose to solve (example: `The Legendary Duel of Stonevale`).
+    Sostituisci `[Nome della tua avventura]` con il nome dell'avventura che hai scelto di risolvere (esempio: `Il duello leggendario di Stonevale`).
 
-- Add a link to your GitHub repo in the body section.
-- If you have any feedback, share what you found (good or bad). We'd love to hear your feedback!
+- Aggiungi un link al tuo repository GitHub nella sezione del corpo.
+- Se hai qualche feedback, condividi quello che hai trovato (buono o cattivo). Ci piacerebbe sentire il tuo feedback!
 
-## Next Steps: Learn a New Language or Create a UI for Your Adventure
+## Prossimi passaggi: Impara un nuovo linguaggio o crea un'interfaccia utente per la tua avventura
 
 <a href="#">
     <img src="./Images/learn-more.jpg" style="width: 830px" />
 </a>
 
-Once you've completed your first adventure, try it again but this time use GitHub Copilot to complete the adventure using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the adventure using Python or another language you'd like to learn more about.
+Una volta completata la tua prima avventura, provaci di nuovo ma questa volta usa GitHub Copilot per completare l'avventura utilizzando un linguaggio che ti è nuovo. Ad esempio, se normalmente scrivi codice in C#, usa Copilot per aiutarti a risolvere l'avventura utilizzando Python o un altro linguaggio che vorresti imparare di più.
 
-Try creating a UI for your adventure. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
+Prova a creare un'interfaccia utente per la tua avventura. Usa HTML/CSS/JavaScript puro o una libreria/framework a tua scelta. Lascia che GitHub Copilot/Chat ti aiuti con il codice dell'interfaccia utente. Se la tua interfaccia utente richiede immagini, considera l'uso di [Bing Image Creator](https://www.bing.com/create) o un altro servizio di generazione di immagini AI.
 
-## Have a Copilot Adventure Idea? Submit a PR!
+## Hai un'idea per un'Avventura Copilot? Invia una PR!
 
-Do you have a copilot adventure story/puzzle you'd like to submit for others to go through? We'd love to see it! Please submit a pull request to this repository with your adventure and solution. 
+Hai una storia/enigma per un'avventura Copilot che ti piacerebbe proporre per gli altri? Ci piacerebbe vederlo! Invia una pull request a questo repository con la tua avventura e soluzione.
 
-- Use `New Copilot Adventure: [Your Adventure Name]` for the PR title. Replace `[Your Adventure Name]` with the name of your adventure.
-- Include if your adventure is at the beginner, intermediate, or advanced level.
-- Follow the markdown template used with each adventure in the [Adventures](./Adventures) folder as you create your adventure.
-- Provide an image for your adventure (use [Bing Image Creator](https://www.bing.com/create) or another image generator solution).
-- Provide a solution using your chosen language. Place all of the code in a single file (to keep things simple) and include it in the PR.
+- Usa `Nuova Avventura Copilot: [Nome della tua Avventura]` per il titolo della PR. Sostituisci `[Nome della tua Avventura]` con il nome della tua avventura.
+- Indica se la tua avventura è a livello principiante, intermedio o avanzato.
+- Segui il template markdown usato con ogni avventura nella cartella [Avventure](./Adventures) mentre crei la tua avventura.
+- Fornisci un'immagine per la tua avventura (usa [Bing Image Creator](https://www.bing.com/create) o un'altra soluzione di generatore di immagini).
+- Fornisci una soluzione utilizzando il tuo linguaggio preferito. Metti tutto il codice in un unico file (per mantenere le cose semplici) e includilo nella PR.
 
-We'll review your submission and merge it into the repo if it meets the criteria.
+Esamineremo la tua proposta e la uniremo al repository se soddisfa i criteri.
 
-## <a name="coupon"></a>Instructions to Redeem a GitHub Copilot Workshop Coupon
+## <a name="coupon"></a>Istruzioni per Riscattare un Coupon del Workshop GitHub Copilot
 
-1. Sign in to GitHub.
+1. Accedi a GitHub.
 
-1. Go to https://github.com/redeem/XXX-YYY where XXX-YYY is the coupon code for your workshop.
+1. Vai a https://github.com/redeem/XXX-YYY dove XXX-YYY è il codice coupon per il tuo workshop.
 
-    ![Redeem Coupon Form](./Images/Coupon/redeem-coupon-form.png)
+    ![Form Riscatta Coupon](./Images/Coupon/redeem-coupon-form.png)
 
-1. Fill in your address. It will not ask for a Credit Card. 
+1. Compila il tuo indirizzo. Non ti verrà chiesto di inserire una Carta di Credito.
 
-1. Select `Save`.
+1. Seleziona `Salva`.
 
-1. In the coupon summary page, select `Redeem`.
+1. Nella pagina di riepilogo del coupon, seleziona `Riscatta`.
 
-    ![Redeem Coupon](./Images/Coupon/redeem.png)
+    ![Riscatta Coupon](./Images/Coupon/redeem.png)
 
-1. You should receive a message on your GitHub dashboard.
+1. Dovresti ricevere un messaggio sulla tua dashboard di GitHub.
 
-    ![Dashboard Message](./Images/Coupon/dashboard-message.png)
+    ![Messaggio Dashboard](./Images/Coupon/dashboard-message.png)
 
-1. Visit https://gh.io/copilot-free. This step is necessary after redeeming the coupon. You will not have access to GitHub Copilot until you've signed up and configured your preferences.
+1. Visita https://gh.io/copilot-free. Questo passaggio è necessario dopo aver riscattato il coupon. Non avrai accesso a GitHub Copilot fino a quando non ti sarai iscritto e configurato le tue preferenze.
 
-1. Select `Get access to GitHub Copilot`.
+1. Seleziona `Ottieni accesso a GitHub Copilot`.
 
-    ![Get Access](./Images/Coupon/get-access.png)
+    ![Ottieni Accesso](./Images/Coupon/get-access.png)
 
-1. Pick the settings needed for the workshop (for example select `Allow`) and then select `Save and get started`.
+1. Scegli le impostazioni necessarie per il workshop (ad esempio seleziona `Consenti`) e poi seleziona `Salva e inizia`.
 
-    ![Dashboard Message](./Images/Coupon/select-preferences.png)
+    ![Messaggio Dashboard](./Images/Coupon/select-preferences.png)
 
-1. You should now have access to GitHub Copilot for 7 days!
+1. Dovresti ora avere accesso a GitHub Copilot per 7 giorni!
 
-    ![Dashboard Message](./Images/Coupon/success.png)
+    ![Messaggio Dashboard](./Images/Coupon/success.png)
