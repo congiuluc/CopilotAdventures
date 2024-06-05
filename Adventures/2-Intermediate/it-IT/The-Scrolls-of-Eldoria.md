@@ -15,7 +15,7 @@ Tu, un giovane apprendista stregone, hai ricevuto il compito di recuperare e dec
 ### Specifiche
 
 1. **Recupero dei Dati:**
-    - Usa la magica chiamata HTTP per recuperare il contenuto del rotolo. Troverai il rotolo nella posizione `https://raw.githubusercontent.com/microsoft/CopilotAdventures/main/Data/scrolls.txt` della Grande Biblioteca di Eldoria.
+    - Usa la magica chiamata HTTP per recuperare il contenuto del rotolo. Troverai il rotolo nella posizione `https://raw.githubusercontent.com/congiuluc/CopilotAdventures/main/Data/scrolls.txt` della Grande Biblioteca di Eldoria.
     - Il contenuto sarà in formato di testo.
 
 2. **Decifrare il Rotolo:**

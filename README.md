@@ -14,14 +14,14 @@ Benvenuto in Copilot Adventures! Questa serie di avventure di programmazione rig
 
 Per iniziare, entra nell'"arena dell'avventura" cliccando il pulsante qui sotto. Questo creerà un GitHub Codespace in cui potrai lavorare. Una volta caricato, seleziona il pulsante **Crea codespace**.
 
-[![Entra nell'Arena dell'Avventura](https://img.shields.io/static/v1?style=for-the-badge&label=Entra+Adventure+Arena&message=Apri&color=brightgreen&logo=github)](https://codespaces.new/microsoft/CopilotAdventures)
+[![Entra nell'Arena dell'Avventura](https://img.shields.io/static/v1?style=for-the-badge&label=Entra+Adventure+Arena&message=Apri&color=brightgreen&logo=github)](https://codespaces.new/congiuluc/CopilotAdventures)
 
 **NOTA:** Puoi utilizzare 60 ore di GitHub Codespaces [gratuitamente](https://github.com/features/codespaces#pricing) ogni mese.
 
 Se preferisci, puoi clonare il repository ed eseguirlo localmente:
 
 ```bash
-git clone https://github.com/microsoft/copilotadventures
+git clone https://github.com/congiuluc/CopilotAdventures
 ```
 
 ### 2. Scegli un'avventura
@@ -61,7 +61,7 @@ Leggi la descrizione della tua avventura Copilot, le attività ad alto livello d
 Se desideri condividere la tua soluzione con gli altri, esegui i seguenti passaggi:
 
 - Pubblica la tua soluzione d'avventura su un repository GitHub.
-- Visita https://github.com/microsoft/CopilotAdventures/issues e seleziona `Nuova Issue`.
+- Visita https://github.com/congiuluc/CopilotAdventures/issues e seleziona `Nuova Issue`.
 - Usa la seguente convenzione di denominazione per il titolo dell'issue.
 
     ```
